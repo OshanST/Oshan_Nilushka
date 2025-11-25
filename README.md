@@ -35,27 +35,37 @@
 
 <div align="center">
 
-### **Frontend Development**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/>
+<!-- Frontend -->
+<h2>Frontend Development</h2>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="60px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="60px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="60px">
+<br><br>
 
-### **Programming Languages**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/>
+<!-- Programming Languages -->
+<h2>Programming Languages</h2>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="65px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="65px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="65px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="65px">
+<br><br>
 
-### **Databases**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50"/>
+<!-- Databases -->
+<h2>Databases</h2>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="65px">
+<img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" width="65px">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" width="65px">
+<br><br>
 
-### **Design & Tools**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+<!-- Design + Tools -->
+<h2>Design & Tools</h2>
+<img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" width="65px">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" width="65px">
+<img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Linux-Light.svg" width="65px">
+
+</div>
+
 
 </div>
 
